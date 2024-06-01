@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhivarma Birru</h1>
-<h3 align="center">Data Science graduate from University of North Texas, TX, USA, Professional developer with expertise in Full-Stack Development, Software Development, Machine learning, Deep learning, Data science and Software engineering.</h3>
+<h3 align="center">Data Science graduate from University of North Texas, TX, USA.</h3>
+ <h3 align="center"> Professional developer with expertise in Full-Stack Development, Software Development, Machine learning, Deep learning, Data science and Software engineering.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABV14](https://github.com/ABV14)
 
